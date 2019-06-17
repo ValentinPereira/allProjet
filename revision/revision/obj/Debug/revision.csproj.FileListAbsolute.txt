@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\revision\revision\bin\Debug\revision.exe.config
+C:\Users\Dell\source\repos\revision\revision\bin\Debug\revision.exe
+C:\Users\Dell\source\repos\revision\revision\bin\Debug\revision.pdb
+C:\Users\Dell\source\repos\revision\revision\obj\Debug\revision.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\revision\revision\obj\Debug\revision.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\revision\revision\obj\Debug\revision.exe
+C:\Users\Dell\source\repos\revision\revision\obj\Debug\revision.pdb

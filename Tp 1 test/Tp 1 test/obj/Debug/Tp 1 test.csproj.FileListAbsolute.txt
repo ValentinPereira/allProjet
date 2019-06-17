@@ -1,0 +1,2 @@
+C:\Users\Dell\source\repos\Tp 1 test\Tp 1 test\obj\Debug\Tp 1 test.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Tp 1 test\Tp 1 test\obj\Debug\Tp 1 test.csproj.CoreCompileInputs.cache

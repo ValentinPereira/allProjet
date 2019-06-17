@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\Projet1Quiz\Projet1Quiz\obj\Debug\Projet1Quiz.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Projet1Quiz\Projet1Quiz\obj\Debug\Projet1Quiz.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Projet1Quiz\Projet1Quiz\bin\Debug\Projet1Quiz.exe.config
+C:\Users\Dell\source\repos\Projet1Quiz\Projet1Quiz\bin\Debug\Projet1Quiz.exe
+C:\Users\Dell\source\repos\Projet1Quiz\Projet1Quiz\bin\Debug\Projet1Quiz.pdb
+C:\Users\Dell\source\repos\Projet1Quiz\Projet1Quiz\obj\Debug\Projet1Quiz.exe
+C:\Users\Dell\source\repos\Projet1Quiz\Projet1Quiz\obj\Debug\Projet1Quiz.pdb

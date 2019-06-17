@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\rienavoir\rienavoir\bin\Debug\rienavoir.exe.config
+C:\Users\Dell\source\repos\rienavoir\rienavoir\bin\Debug\rienavoir.exe
+C:\Users\Dell\source\repos\rienavoir\rienavoir\bin\Debug\rienavoir.pdb
+C:\Users\Dell\source\repos\rienavoir\rienavoir\obj\Debug\rienavoir.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\rienavoir\rienavoir\obj\Debug\rienavoir.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\rienavoir\rienavoir\obj\Debug\rienavoir.exe
+C:\Users\Dell\source\repos\rienavoir\rienavoir\obj\Debug\rienavoir.pdb
